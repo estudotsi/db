@@ -1,0 +1,45 @@
+{
+    "games": [{
+            "id": 1,
+            "image": "horizon_zero_dawn.jpg",
+            "name": "Horizon Zero Dawn",
+            "releaseDate": "2017-02-28"
+        },
+        {
+            "id": 2,
+            "image": "destiny2.jpg",
+            "name": "Destiny 2",
+            "releaseDate": "2017-09-06"
+        },
+        {
+            "id": 3,
+            "image": "gran_turismo.jpg",
+            "name": "Gran Turismo Sport",
+            "releaseDate": "2017-10-17"
+        },
+        {
+            "id": 4,
+            "image": "resident_evil.jpg",
+            "name": "Resident Evil 7: Biohazard",
+            "releaseDate": "2017-01-24"
+        },
+        {
+            "id": 5,
+            "image": "call_of_dutty.jpg",
+            "name": "Call of Duty: WWII",
+            "releaseDate": "2017-11-03"
+        },
+        {
+            "id": 4,
+            "image": "resident_evil.jpg",
+            "name": "Resident Evil 7: Biohazard",
+            "releaseDate": "2017-01-24"
+        },
+        {
+            "id": 5,
+            "image": "call_of_dutty.jpg",
+            "name": "Call of Duty: WWII",
+            "releaseDate": "2017-11-03"
+        }
+    ]
+}

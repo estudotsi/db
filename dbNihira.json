@@ -1,0 +1,27 @@
+{
+    "posts": [{
+            "id": 1,
+            "title": "json-server",
+            "author": "typecode"
+        },
+        {
+            "id": 2,
+            "title": "titulo",
+            "author": "javascript"
+        }
+    ],
+
+    "customer": [{
+            "code": "1",
+            "name": "Joao",
+            "email": "2.com",
+            "phone": "61999"
+        },
+        {
+            "code": "2",
+            "name": "Antonio",
+            "email": "1.com",
+            "phone": "94949"
+        }
+    ]
+}

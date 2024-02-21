@@ -1,0 +1,33 @@
+{
+    "Usuarios": [{
+            "id": "42066",
+            "nome": "Harry Potter",
+            "idade": "18",
+            "perfil": "Administrador"
+        },
+        {
+            "id": "52178",
+            "nome": "Dominic Toretto",
+            "idade": "52",
+            "perfil": "Consultor"
+        },
+        {
+            "id": "30736",
+            "nome": "Steve Rodgers",
+            "idade": "80",
+            "perfil": "Herói"
+        },
+        {
+            "id": "26443",
+            "nome": "Tony Stark",
+            "idade": "62",
+            "perfil": "Administrador"
+        },
+        {
+            "id": "88721",
+            "nome": "Daniel Laruso",
+            "idade": "17",
+            "perfil": "Consultor"
+        }
+    ]
+}

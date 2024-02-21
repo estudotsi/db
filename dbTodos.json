@@ -1,0 +1,19 @@
+{
+    "book": [{
+            "id": 1,
+            "nome": "Harry Potter"
+        },
+        {
+            "id": 2,
+            "nome": "Senho dos Anéis"
+        },
+        {
+            "id": 3,
+            "nome": "Silmarilion"
+        },
+        {
+            "id": 4,
+            "nome": "Oppenheimer"
+        }
+    ]
+}
