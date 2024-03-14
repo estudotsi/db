@@ -1,0 +1,24 @@
+{
+  "pedidos": [
+    {
+      "id": "1",
+      "dataVenda": "2015-05-16T09:50:06.719Z",
+      "vendedor": "Manoel",
+      "cliente": "Keyla",
+      "observacao": "Rua de Asfalto",
+      "valor": "1954.25",
+      "dataEntrega": "2015-05-16T09:50:06.719Z",
+      "hora": "20:25"
+    },
+    {
+      "id": "2",
+      "dataVenda": "2024-03-14",
+      "vendedor": "Ringo",
+      "cliente": "Steve",
+      "observacao": "Teste",
+      "valor": 1389.25,
+      "dataEntrega": "2024-03-21",
+      "hora": "12:30"
+    }
+  ]
+}
